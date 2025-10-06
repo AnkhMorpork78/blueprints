@@ -13,6 +13,10 @@ blueprint:
           - manufacturer: eWeLink
             model: ZM-SY1ß1
           - manufacturer: eWeLink
+            model: YWL02
+          - manufacturer: eWeLink
+            model: C3006-YWL02
+          - manufacturer: eWeLink
             model: SNZB-01P
           multiple: false
     mode:
