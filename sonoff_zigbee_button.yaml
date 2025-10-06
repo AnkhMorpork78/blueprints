@@ -11,7 +11,7 @@ blueprint:
         device:
           filter:
           - manufacturer: eWeLink
-            model: WB01
+            model: ZM-SY1ß1
           - manufacturer: eWeLink
             model: SNZB-01P
           multiple: false
