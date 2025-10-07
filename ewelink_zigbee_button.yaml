@@ -8,18 +8,8 @@ blueprint:
       description: The button to configure.
       selector:
         device:
-          filter:
-          - manufacturer: eWeLink
-            model: CK-TLSR8656-SS5-01(7000)
-          - manufacturer: eWeLink
-            model: ZM-SY101
-          - manufacturer: eWeLink
-            model: YWL02
-          - manufacturer: eWeLink
-            model: C3006-YWL02
-          - manufacturer: eWeLink
-            model: SNZB-01P
-          multiple: false
+         integration: zha
+         multiple: false
     mode:
       name: Automation mode
       description: The automation's mode configuration option controls what happens when the automation is triggered while the actions are still running from a previous trigger.
