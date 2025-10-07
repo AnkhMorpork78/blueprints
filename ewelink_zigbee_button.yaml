@@ -10,6 +10,8 @@ blueprint:
         device:
           filter:
           - manufacturer: eWeLink
+            model: CK-TLSR8656-SS5-01(7000)
+          - manufacturer: eWeLink
             model: ZM-SY101
           - manufacturer: eWeLink
             model: YWL02
